@@ -1,8 +1,8 @@
 # Classification of survival on the titanic
-- Titanic data set from Kaggle is used for this
+- Titanic data set from Kaggle is used for this project
 - Several ML classifiers are built with sckit-learn (logistic regression, decision trees, random forest, grouped/ensemble classifier)
 - Project comprises all phases of ML work flow: 
-    + data exploration:
+    + data exploration
     + feature engineering
     + creation of classifier 
     + optimization of hyperparameters

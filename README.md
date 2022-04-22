@@ -8,3 +8,9 @@
     + optimization of hyperparameters
     + evaluation using different KPIS (cross-validation)
 - All created classifiers are compared and the best one is further tuned by optimizing thresholds for classification  
+
+_Main KPIs for implemented ML classifiers_<br/>
+<img src="https://github.com/piwi3/classification_with_titanic_data/blob/main/images/overview_ml_kpis_1.png" width="600">
+
+_KPIs after tuning voting classifier for precision_<br/>
+<img src="https://github.com/piwi3/classification_with_titanic_data/blob/main/images/overview_ml_kpis_2.png" width="600">
